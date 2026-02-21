@@ -12,14 +12,7 @@ A full-stack e-commerce web application with product browsing, cart management, 
 
 ## Demo
 
-<!-- Add your demo video here: drag & drop .mp4/.gif in GitHub editor -->
-> **[Watch Demo Video](VIDEO_URL_PLACEHOLDER)** — short walkthrough of the app in action
-
-<!-- Add your screenshots here: drag & drop images in GitHub editor -->
-![Home Page](https://via.placeholder.com/800x450?text=Home+Page+-+Product+Catalog)
-![Checkout Page](https://via.placeholder.com/800x450?text=Checkout+-+Cart+%26+Payment+Summary)
-![Orders Page](https://via.placeholder.com/800x450?text=Orders+-+Order+History)
-![Tracking Page](https://via.placeholder.com/800x450?text=Tracking+-+Delivery+Progress)
+https://github.com/user-attachments/assets/f1ac39dd-6ac0-4f75-8d78-c36afdccce60
 
 ---
 
