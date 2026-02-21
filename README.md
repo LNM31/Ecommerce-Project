@@ -12,7 +12,7 @@ A full-stack e-commerce web application with product browsing, cart management, 
 
 ## Demo
 
-https://github.com/user-attachments/assets/f1ac39dd-6ac0-4f75-8d78-c36afdccce60
+https://github.com/user-attachments/assets/3a4ad676-831d-494d-8db1-630eea51852f
 
 ---
 
